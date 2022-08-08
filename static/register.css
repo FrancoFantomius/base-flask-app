@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #eaedf2;
+}
+
+.formbox{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form{
+    border: solid 2.5px #07306a;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+}
+
+input{
+    margin: 2%;
+    width: 300px;
+    height: 50px;
+    padding-left: 2.5%;
+    border: solid 2.5px #247998;
+    border-radius: 20px;
+    outline: none;
+}
+
